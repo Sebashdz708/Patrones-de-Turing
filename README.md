@@ -1,2 +1,2 @@
 # Patrones-de-Turing
-![](name-of-giphy.gif)
+![](Estable(1,1,1).gif)
