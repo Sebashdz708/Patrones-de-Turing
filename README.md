@@ -10,7 +10,7 @@ Los resultados están distribuidos tal que:
 - Random_Point: Patrones obtenidos para la condición inicial de punto de concentración elegido al azar.
 - Barras: Patrones obtenidos para la condición inicial de 2 barras horizontales distanciadas con 100 unidades de separación.
 
-De igual forma, como resultados interesantes se adjuntan los gif de evoluación de los patrones mostrados en los resultados preliminares del paper presentado. Estos pueden encontrarse dentro de la carpeta xxxx.
+De igual forma, como resultados interesantes se adjuntan los gif de evolución de algunos de los patrones mostrados en los resultados preliminares del paper presentado. Estos pueden encontrarse dentro de la carpeta xxxx.
 
 Por último, se presentan algunos ejemplos es estabilidad e inestabilidad encontrados.
 
